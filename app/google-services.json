@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55030675927",
+    "project_id": "davaleba3-b79c9",
+    "storage_bucket": "davaleba3-b79c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55030675927:android:e602e4d7234e90f3a67392",
+        "android_client_info": {
+          "package_name": "com.btu_davaleba.davaleba3_basic_firebase_rv_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVVPbVSpeHT38W8V2ev6xx_e585gMopmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
